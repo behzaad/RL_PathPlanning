@@ -1,4 +1,4 @@
-# Path Planning for the Robots using Reinforcement Learning
+# Path Planning for the Robots Using Reinforcement Learning
 
 We have a robot that aims to collect data of several low-powered IoT sensors. The robot starts its mission from the start terminal. There is a charging station in the environment so that the robot can recharge its battery if it is running out of energy. Also, there are several obstacles in the environment. 
 
