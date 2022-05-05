@@ -19,6 +19,19 @@ Black circles: IoT sensors
 Blue blocks: obstacles
 
 
+In this project, we define the state as a four channel image, shown below
+
+<img width="865" alt="img" src="https://user-images.githubusercontent.com/37718565/167021810-200d8550-21e6-4540-ab24-c8fac41e23ef.png">
+
+Based on this definition, we can use CNNs to solve the MDP. 
+
+
+
+
+
+
+
+
 A sample result:
 
 
