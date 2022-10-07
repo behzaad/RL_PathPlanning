@@ -1,6 +1,6 @@
 # Path Planning for the Robots Using Reinforcement Learning
 
-We have a robot that aims to collect data of several low-powered IoT sensors. As the sensors are low-powered, they cannot communcate over long ranges. Hence, the robot must approaches each sensor to collect their data. The robot starts its mission from the start terminal. There is a charging station in the environment so that the robot can recharge its battery if it is running out of energy. Also, there are several obstacles in the environment. 
+We have a robot that aims to collect data of several low-powered IoT sensors. As the sensors are low-powered, they cannot communcate over long ranges. Hence, the robot must approach each sensor to collect their data. The robot starts its mission from the start terminal. There is a charging station in the environment so that the robot can recharge its battery if it is running out of energy. Also, there are several obstacles in the environment. 
 
 The task of the robot is to collect data of all sensors in the shortest possible time while it avoids any collisions to the obstacles.
 
